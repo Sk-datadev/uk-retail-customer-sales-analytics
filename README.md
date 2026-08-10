@@ -2,16 +2,15 @@
 SQL and Power BI analysis of UK retail sales, customer cohorts, retention, product performance, and sales trends.
 
 ## Table of contents
-  [Project Overview](#Project-Overview)
-  [Objectives](#Objectives)
-  [Dataset](#Dataset)
-  [Tools & Technologies](#Tools-&-Technologies)
-  [SQL Analysis](#SQL-Analysis)
-  [Dashboards](#Dashboards)
-  [Key Findings](#Key-Findings)
-  [Recommendations](#Recommendations)
-  [Overall Business Conclusion](#Overall-Business-Conclusion)
-  
+  [Project Overview](#project-overview)<br>
+[Objectives](#objectives)<br>
+[Dataset](#dataset)<br>
+[Tools & Technologies](#tools--technologies)<br>
+[SQL Analysis](#sql-analysis)<br>
+[Dashboards](#dashboards)<br>
+[Key Findings](#key-findings)<br>
+[Recommendations](#recommendations)<br>
+[Overall Business Conclusion](#overall-business-conclusion)
   
   
   
