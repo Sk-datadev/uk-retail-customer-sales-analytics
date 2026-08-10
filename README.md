@@ -48,12 +48,12 @@ The dataset contains both sales and cancelled/returned transactions, including i
 
 | Script Name | Analysis                                 | Focus / Action                                                                                                        |
 | ----------- | ---------------------------------------- | --------------------------------------------------------------------------------------------------------------------- |
-| `01_...sql` | **Country Performance**                  | Compare revenue, orders, customers, units sold, average order value, and revenue per customer across countries.       |
-| `02_...sql` | **Product Performance**                  | Identify top-performing products based on revenue, units sold, orders, and customers.                                 |
-| `03_...sql` | **Cohort Customer Retention Matrix**     | Track the number of customers from each acquisition cohort who purchase again in subsequent months.                   |
-| `04_...sql` | **Cohort Customer Retention Percentage** | Calculate cohort retention rates and identify customer drop-off over time.                                            |
-| `05_...sql` | **Cohort Revenue Matrix**                | Measure revenue contributed by each customer cohort across subsequent months.                                         |
-| `06_...sql` | **Customer Lifetime Value (CLV)**        | Measure historical customer value using revenue, orders, average order value, units purchased, and customer lifespan. |
-| `07_...sql` | **Monthly Sales Performance**            | Analyze monthly sales trends and calculate month-over-month revenue growth using `LAG()`.                             |
-| `08_...sql` | **Customer Purchase Frequency**          | Segment customers by number of orders and compare customer counts and revenue contribution.                           |
+| `country_Performance.sql` | **Country Performance**                  | Compare revenue, orders, customers, units sold, average order value, and revenue per customer across countries.       |
+| `product performance.sql` | **Product Performance**               | Identify top-performing products based on revenue, units sold, orders, and customers.                                 |
+| `Cohort Customer Retention Matrix.sql` | **Cohort Customer Retention Matrix**     | Track the number of customers from each acquisition cohort who purchase again in subsequent months.                   |
+| `Cohort Customer Retention Percentage.sql` | **Cohort Customer Retention Percentage** | Calculate cohort retention rates and identify customer drop-off over time.                                            |
+| `Cohort Revenue Matrix.sql` | **Cohort Revenue Matrix**                | Measure revenue contributed by each customer cohort across subsequent months.                                         |
+| `Customer_LifetimeValue.sql` | **Customer Lifetime Value (CLV)**        | Measure historical customer value using revenue, orders, average order value, units purchased, and customer lifespan. |
+| `Monthly sales performance.sql` | **Monthly Sales Performance**            | Analyze monthly sales trends and calculate month-over-month revenue growth using `LAG()`.                             |
+| `Customer Purchase Freq.sql` | **Customer Purchase Frequency**          | Segment customers by number of orders and compare customer counts and revenue contribution.                           |
 
